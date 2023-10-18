@@ -14,17 +14,18 @@ Algunos objetivos generales esperados:
 
 Los encuentros pactados para este abordaje corresponde a la siguiente lista de Encuentros Numerados:
 
-12. Trabajando con R
-13. Trabajando con Python
-14. Documentación con R Markdown
-15. Estructuras de datos en R
-16. Introducción a la representación gráfica
-17. Data frames
-18. Estadística descriptiva con datos cualitativos
-19. Estadística descriptiva con datos ordinales
-20. Análisis de datos cuantitativos
-21. Análisis de datos cuantitativos agrupados I
-22. Análisis de datos cuantitativos agrupados II
-23. Introducción a la regresión lineal
-24. Distribuciones de probabilidad
-25. Ejemplos de análisis completos
+12. Instalación y Puesta a punto
+13. Trabajando con R
+14. Trabajando con Python
+15. Documentación con R Markdown
+16. Estructuras de datos en R
+17. Introducción a la representación gráfica
+18. Data frames
+19. Estadística descriptiva con datos cualitativos
+20. Estadística descriptiva con datos ordinales
+21. Análisis de datos cuantitativos
+22. Análisis de datos cuantitativos agrupados I
+23. Análisis de datos cuantitativos agrupados II
+24. Introducción a la regresión lineal
+25. Distribuciones de probabilidad
+26. Ejemplos de análisis completos
